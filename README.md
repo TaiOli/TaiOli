@@ -12,9 +12,9 @@ Experiência em controle de versão usando Git e GitHub para colaboração efici
 
 ## 🔧 Tecnologias & Ferramentas
 - **Linguagens de Programação:**
-  - JavaScript [![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://blog.com)
-  - TypeScript [![Blog](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://blog.com)
-  - PHP [![Blog](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://blog.com)
+  - [![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://blog.com)
+  - [![Blog](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://blog.com)
+  - [![Blog](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://blog.com)
 
 - **Ferramentas e Frameworks:**
   - **Front-end:**
@@ -32,9 +32,9 @@ Experiência em controle de versão usando Git e GitHub para colaboração efici
 - **Bancos de Dados:**
   - [![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://blog.com)
   - [!Blog](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
- 
-    [![Blog](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    [![Blog](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
+ [![Blog](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://blog.com)
+ [![Blog](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://canva.com)
 
 ## 📫 Como Entrar Em Contato
 - LinkedIn: linkedin.com/in/taiscoliveira/ [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taiscoliveira/)
