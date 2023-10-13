@@ -8,7 +8,7 @@ Criação de interfaces atrativas e responsivas utilizando HTML, CSS e Bootstrap
 Experiência em controle de versão usando Git e GitHub para colaboração eficiente.
 
 ## Formação Acadêmica
-** Análise e Desenvolvimento de Sistemas
+**Análise e Desenvolvimento de Sistemas**
 
 ## 🔧 Tecnologias & Ferramentas
 - **Linguagens de Programação:**
