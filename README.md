@@ -39,7 +39,7 @@ Experiência em controle de versão usando Git e GitHub para colaboração efici
  - [![Blog](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://canva.com)
    
 
-## 📫 Como Entrar Em Contato
+## 📫 Como Entrar em Contato
 - LinkedIn: linkedin.com/in/taiscoliveira/ [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taiscoliveira/)
 
   Não hesite em entrar em contato comigo se quiser discutir colaborações, oportunidades ou apenas para trocar ideias! 😊
